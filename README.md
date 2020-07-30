@@ -4,6 +4,8 @@
 
 <br>
 
+![JMauroNeto's github stats](https://github-readme-stats.vercel.app/api?username=jmauroneto&show_icons=true&theme=dark&hide=issues,stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmauroneto&theme=dark&layout=compact)
+
 ## :man_technologist: Desenvolvedor Web 
 
 Aqui no meu GitHub você encontrará alguns projetos que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu*
