@@ -8,7 +8,7 @@
 
 ## :man_technologist: Desenvolvedor Web 
 
-Aqui no meu GitHub você encontrará alguns projetos que fiz durante meus estudos pessoais e durante o curso Web Full Stack Web Development da Labenu*
+Aqui no meu GitHub você encontrará alguns projetos que fiz durante meus estudos pessoais e durante o curso Full Stack Web Development da Labenu*
 
 
 - :wrench: Tecnologias: HTML, CSS, Javascript, ReactJS, Node.js, Typescript, SQL
