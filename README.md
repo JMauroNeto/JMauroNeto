@@ -4,14 +4,4 @@
 
 <br>
 
-![JMauroNeto's github stats](https://github-readme-stats.vercel.app/api?username=jmauroneto&show_icons=true&theme=dark&hide=issues,stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmauroneto&theme=dark&layout=compact)
-
-## :man_technologist: Desenvolvedor Web 
-
-Aqui no meu GitHub você encontrará alguns projetos que fiz durante meus estudos pessoais e durante o curso Full Stack Web Development da Labenu*
-
-
-- :wrench: Tecnologias: HTML, CSS, Javascript, ReactJS, Node.js, Typescript, SQL
-
-
-> * A [Labenu](https://www.labenu.com.br/) é uma startup de tecnologia que oferece um bootcamp com mais de 1000 horas de aulas e projetos em desenvolvimento Full Stack, o que faz com que seus alunos sejam profissionais completos tanto no Back-End quanto no Front-End.
+![JMauroNeto's github stats](https://github-readme-stats.vercel.app/api?username=jmauroneto&count_private=true&show_icons=true&theme=dark&hide=issues,stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmauroneto&theme=dark&layout=compact)
